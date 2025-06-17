@@ -7,3 +7,7 @@ A classe escolhida do projeto foi a classe Caixa, responsável pelas transaçõe
 Teste de conexão da classe Database ao Banco de Dados:
 
 ![Teste de conexão da classe Database ao Banco de Dados](AtividadeCRUD/Imagens/Teste_Conexão_Database.png)
+
+Teste de conexão da classe TransactionRepository ao Banco de Dados:
+
+![Teste TransactionRepository](AtividadeCRUD/Imagens/Teste_Conexão_TransactionRepository.png)
