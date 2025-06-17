@@ -12,9 +12,20 @@ Teste de conexão da classe TransactionRepository ao Banco de Dados:
 
 ![Teste TransactionRepository](AtividadeCRUD/Imagens/Teste_Conexão_TransactionRepository.png)
 
-Cadastro de uma Maquina Pequena no Banco de Dados:
+Cadastro de uma Maquina Pequena, Media e Pesada no Banco de Dados:
 
 ![Cadastro MaquinaPequena](AtividadeCRUD/Imagens/Cadastro_MaquinaPequena.png)
+![Cadastro MaquinaPequena](AtividadeCRUD/Imagens/Cadastro_MaquinaMedia.png)
+![Cadastro MaquinaPequena](AtividadeCRUD/Imagens/Cadastro_MaquinaPesada.png)
 
-Tabela de dados no DB Browser:
+Confirmação de Registro de Transações de cada máquina no Banco de Dados:
 
+![Registro no Terminal](AtividadeCRUD/Imagens/Confirmação_Registro_Banco_Dados.png)
+
+Tabelaa Iniciaia criadas no Banco de Dados:
+
+![Tabelaa](AtividadeCRUD/Imagens/Tabelas_Iniciais.png)
+
+Tabela de dados Preenchida no DB Browser:
+
+![Tabela de dados final](AtividadeCRUD/Imagens/Tabela_Dados_Preenchida.png)
